@@ -1,7 +1,7 @@
-Analiza ocen serij na [MyAnimeList](https://myanimelist.net/)
+Analiza ocen serij na [MyAnimeList](https://myanimelist.net/topanime.php?type=bypopularity)
 ==========================================
 
-#### Za vsako izmed 10.000 serij, ki so bile največkrat dodane na seznam ogledanih serij uporabnikov spletne strani, bom zajel:
+#### Za vsako izmed 10.000 serij, ki so bile največkrat dodane na seznam ogledanih serij uporabnikov [MAL](https://myanimelist.net/topanime.php?type=bypopularity), bom zajel:
 * naslov
 * število epizod
 * datum predvajanja
